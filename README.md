@@ -1,6 +1,6 @@
 # Antithesis EPP/LOP Onboard Power Supply
 
-![printer pic](https://github.com/antithesisengineering/Antithesis-EPP-LOP-Onboard-Power-Supply/blob/main/Pictures/PSUrender.png?raw=true))
+![printer pic](https://github.com/antithesisengineering/Antithesis-EPP-LOP-Onboard-Power-Supply/blob/main/Pictures/PSUrender.png?raw=true)
 
 
 ## Description 
