@@ -1,5 +1,7 @@
 # Antithesis EPP/LOP Onboard Power Supply
 
+![printer pic](https://github.com/antithesisengineering/Antithesis-EPP-LOP-Onboard-Power-Supply/blob/main/Pictures/PSUrender.png?raw=true))
+
 
 ## Description 
 An onboard power supply compatible with all Antithesis printers which serves as a far more convenient, compact, and portable solution when compared to the external supply. It replaces the front foot assembly and can either route a cable through the side of the MCU enclosure or less ideally to the XT60 connector on the side. It can use either the 200W or 300W 24V EPP or LOP series of power supply. The LOP series is newer and slightly more compact but both supplies are often in short supply so obtain whichever one you can. I would consider the cooling fan to be mandatory. There are three options for powering it. Power it using a lead attacked to one of the 24V outputs, a spare fan port on your mainboard routing the fan cable back into the power supply, or via the fan connector on the PSU itself. However, you will need a 12V fan and an additional connector for that option. As it stands there are no assembly instructions but I will provide some pictures, the CAD, and a BOM complete with links for the harder to find stuff. 
